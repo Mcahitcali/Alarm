@@ -1,0 +1,9 @@
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\bin\Debug\Alarm.exe
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\bin\Debug\Alarm.pdb
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.csprojResolveAssemblyReference.cache
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.Properties.Resources.resources
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.csproj.GenerateResource.Cache
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.exe
+c:\users\srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.pdb
+C:\Users\Srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.mesaj.resources
+C:\Users\Srubijder\documents\visual studio 2012\Projects\Alarm\Alarm\obj\Debug\Alarm.aAlarm.resources
